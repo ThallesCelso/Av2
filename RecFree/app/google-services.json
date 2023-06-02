@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630173959241",
+    "project_id": "vialivre-recife-2-0",
+    "storage_bucket": "vialivre-recife-2-0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630173959241:android:f7bcf9095287b2f521eb98",
+        "android_client_info": {
+          "package_name": "com.example.vialivrerecife"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBO4BaIawABLsbEK7BJpIcEFAggtKgY8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
